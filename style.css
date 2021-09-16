@@ -1,3 +1,12 @@
+.article:hover {
+    color : fuchsia;
+}
+
+a {
+    text-decoration: none
+}
+
+
 .links:hover {
     background-color: royalblue;
     
@@ -36,6 +45,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center
     
 }
 #welcome {
